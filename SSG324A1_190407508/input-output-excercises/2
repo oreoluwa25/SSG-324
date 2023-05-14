@@ -1,0 +1,6 @@
+color = input("What is your favorite color? ")
+month = input("What is the number of your birthday month? ")
+pet = input("What is your pet name? ")
+
+password = color + month + pet
+print("Your password could be", password)

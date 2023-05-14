@@ -1,0 +1,4 @@
+name = "Sopeyin Oreoluwa"
+phone_num = "+234-811-888-2644"
+
+print ("Contact Info \n Name: {} \n Number: {}".format(name, phone_num))
